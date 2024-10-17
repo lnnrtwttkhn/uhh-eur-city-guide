@@ -1,14 +1,19 @@
 ---
 listing:
-  - id: guide
+  - id: guide-hamburg
     type: default
-    contents: guide
-    sort: false
+    contents: guide/hamburg
+    sort: file-modified desc
     sort-ui: true
     filter-ui: true
     categories: numbered
-    feed: true
+    feed: false
     date-format: long
     image-height: 80px
-    fields: [image, title, categories, description, file-modified]
+    fields: [image, author, title, categories, file-modified]
 ---
+
+## Hamburg Guide
+
+:::{#guide-hamburg}
+:::
