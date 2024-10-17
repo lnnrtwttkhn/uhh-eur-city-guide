@@ -11,9 +11,25 @@ listing:
     date-format: long
     image-height: 80px
     fields: [image, author, title, categories, file-modified]
+  - id: guide-rotterdam
+    type: default
+    contents: guide/rotterdam
+    sort: file-modified desc
+    sort-ui: true
+    filter-ui: true
+    categories: numbered
+    feed: false
+    date-format: long
+    image-height: 80px
+    fields: [image, author, title, categories, file-modified]
 ---
 
 ## Hamburg Guide
 
 :::{#guide-hamburg}
+:::
+
+## Rotterdam Guide
+
+:::{#guide-rotterdam}
 :::
