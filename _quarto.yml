@@ -10,7 +10,7 @@ project:
     navigate: true
 
 website:
-  title: "Hamburg 💞 Rotterdam City Guide"
+  # title: "Hamburg 💞 Rotterdam City Guide"
   description: "Hamburg 💞 Rotterdam City Guide"
   site-url: "https://lennartwittkuhn.com/uhh-eur-city-guide/"
   repo-url: "https://github.com/lnnrtwttkhn/uhh-eur-city-guide/"
