@@ -1,5 +1,6 @@
 ---
 title: "Franzbrötchen"
+description: "Find out where to get the best Franzbrötchen!"
 author:
   - name: lnnrtwttkhn
     url: https://github.com/lnnrtwttkhn

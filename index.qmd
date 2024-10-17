@@ -10,7 +10,7 @@ listing:
     feed: false
     date-format: long
     image-height: 80px
-    fields: [image, author, title, categories, file-modified]
+    fields: [image, author, title, categories, description, file-modified]
   - id: guide-rotterdam
     type: default
     contents: guide/rotterdam
@@ -21,7 +21,7 @@ listing:
     feed: false
     date-format: long
     image-height: 80px
-    fields: [image, author, title, categories, file-modified]
+    fields: [image, author, title, categories, description, file-modified]
 ---
 
 ## Hamburg Guide
