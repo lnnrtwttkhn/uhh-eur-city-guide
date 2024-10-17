@@ -1,7 +1,35 @@
 ---
-title: "Quarto Website"
+listing:
+  - id: guide-hamburg
+    type: default
+    contents: guide/hamburg
+    sort: file-modified desc
+    # sort-ui: true
+    # filter-ui: true
+    categories: numbered
+    feed: false
+    date-format: long
+    image-height: 80px
+    fields: [image, author, title, categories, description, file-modified]
+  - id: guide-rotterdam
+    type: default
+    contents: guide/rotterdam
+    sort: file-modified desc
+    # sort-ui: true
+    # filter-ui: true
+    categories: numbered
+    feed: false
+    date-format: long
+    image-height: 80px
+    fields: [image, author, title, categories, description, file-modified]
 ---
 
-This is a Quarto website.
+## Hamburg Guide
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::{#guide-hamburg}
+:::
+
+## Rotterdam Guide
+
+:::{#guide-rotterdam}
+:::

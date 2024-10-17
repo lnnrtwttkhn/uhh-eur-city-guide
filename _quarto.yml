@@ -3,19 +3,19 @@ project:
   execute-dir: project
   output-dir: _site
   preview:
-    port: 5600
+    port: 8000
     host: 127.0.0.1
     browser: true
     watch-inputs: true
     navigate: true
 
 website:
-  title: "Quarto Website"
-  description: "This is the description of the website"
-  site-url: "https://lennartwittkuhn.com/quarto-website/"
-  repo-url: "https://github.com/lnnrtwttkhn/quarto-website/"
+  # title: "Hamburg 💞 Rotterdam City Guide"
+  description: "Hamburg 💞 Rotterdam City Guide"
+  site-url: "https://lennartwittkuhn.com/uhh-eur-city-guide/"
+  repo-url: "https://github.com/lnnrtwttkhn/uhh-eur-city-guide/"
   repo-branch: main
-  issue-url: "https://github.com/lnnrtwttkhn/quarto-website/issues"
+  issue-url: "https://github.com/lnnrtwttkhn/uhh-eur-city-guide/issues"
   repo-actions: [edit, source, issue]
   reader-mode: false
   navbar:
@@ -23,7 +23,7 @@ website:
     search: true
     left:
       - href: index.qmd
-        text: "{{< fa home-user >}} Home"
+        text: "{{< fa tree-city >}} City Guide"
     right:
       - icon: envelope
         aria-label: Email

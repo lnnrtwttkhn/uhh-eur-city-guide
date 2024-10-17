@@ -1,0 +1,27 @@
+---
+title: "Franzbrötchen"
+description: "Find out where to get the best Franzbrötchen!"
+author:
+  - name: lnnrtwttkhn
+    url: https://github.com/lnnrtwttkhn
+categories:
+  - Food
+---
+
+## What?
+
+> "A Franzbrötchen is a small, sweet pastry baked with butter and cinnamon, similar to a cinnamon roll.
+Sometimes other ingredients are used as well, such as chocolate or raisins.
+It is a type of pastry commonly found in northern Germany, especially Hamburg, and it is usually served for breakfast, but is also enjoyed along with coffee and cake."
+
+Text from [Wikipedia](https://en.wikipedia.org/wiki/Franzbr%C3%B6tchen) (licensed under a [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA) license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License))
+
+## Where?
+
+"Where to find the best Franzbrötchen?" is probably the most hotly debated question in Hamburg.
+
+Here are my top-three recommended places:
+
+1. [Die Kleine Konditorei](https://kleine-konditorei.com/)
+1. [Bäckerei Hönig](https://baeckerei-hoenig.de/)
+1. [Café Luise](https://www.cafe-luise-baeckerei.de/)

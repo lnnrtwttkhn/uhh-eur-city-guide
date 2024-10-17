@@ -1,4 +1,4 @@
-site-url: "https://lennartwittkuhn.com/quarto-website/"
-repo-url: "https://github.com/lnnrtwttkhn/quarto-website/"
+site-url: "https://lennartwittkuhn.com/uhh-eur-city-guide/"
+repo-url: "https://github.com/lnnrtwttkhn/uhh-eur-city-guide/"
 email: "lennart.wittkuhn@tutanota.com"
 mailto: "mailto:{{< var email >}}"
